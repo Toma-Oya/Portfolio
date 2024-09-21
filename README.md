@@ -19,6 +19,34 @@ VRChatというVRメタバースで、既存のいくつかのアバターに着
 # Program
 私が制作した、プログラムに関連する制作実績/ポートフォリオです。
 
+## 1. [「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」](https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
+
+私が研究室のメンバーと制作中の、VR/ARを用いたインタラクティブ作品です。 
+企画書での審査が通り、[IVRC](https://ivrc.net/2024/seed-stage/)というVR学会の中で行われるコンテストにて展示いたしました。  
+VR/AR技術を用いて、「絵画の中の世界に入り込む」体験を提供することが企画目的となっております。  
+
+体験概要としては、こちらの動画のようになっています。
+[!['体験概要解説動画']('IVRC サムネ-1.png')]('https://youtu.be/yM_qg7yoPB0?si=guTJmGAjjMwk91RZ')
+
+- 色の抜け落ちた絵画がARにて表示される
+- その絵画に触れると、触れた絵画の中に吸い込まれる
+- 手を筆のように動かすことで、絵画の色のなくなった部分を着色できる
+- 絵画の中の物体を触ることで、その色を追加で塗れるようになる
+といった形になっています。
+
+私の担当箇所は主に
+- テクニカルアーティスト的業務
+  - 一部3Dモデルの制作
+  - 利用モデルがUnityでも表現できるようなシェーダーの制作
+  - 利用モデルのUnityへの最適化）
+- vive trackerをUnityで利用するスクリプトの制作
+
+です。
+
+
+URL：https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing
+
+
 ## 1. [CheckerBoardCalibration](https://github.com/kusumi-bell/CheckerBoardCalibration)
 
 私が卒業研究のために、C#とOpenCVを用いて制作した、チェッカーボードとカメラの位置・角度の関係を取得するプログラムのgitへのリンクです。  
@@ -36,22 +64,7 @@ HLSLを用いて作成しております。
 
 URL：https://github.com/kusumi-bell/VertexColorShader
 
-## 3. [企画書_「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」](https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
 
-私が研究室のメンバーと制作中の、VR/ARを用いたインタラクティブ作品の企画書です。  
-VR/AR技術を用いて、「絵画の中の世界に入り込む」体験を提供することが企画目的となっております。
-
-私の担当箇所は主に
-- VR機能の実装
-- ハンドトラッキングの実装
-- 一部3Dモデルの制作
-- 3DモデルをUnityに最適化（メッシュ数の削減やリトポロジー）
-
-です。
-
-IVRCというインタラクティブ作品のコンテストで企画書の審査が通り、SEED STAGEへの進出が決定しております。
-
-URL：https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing
 
 ## 4. [ピッチシフター　概要](https://drive.google.com/file/d/1DNoPefglK8fRiD7CkRASsNSXG99mUCeh/view?usp=sharing)
 
