@@ -8,7 +8,7 @@
 私が制作をした、メタバース用衣装たちの3Dモデルに関するポートフォリオです。  
 VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定して制作しております。
 
-詳細なpdfは[こちら]((https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing))で確認できます。
+詳細なpdfは[こちら](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)で確認できます。
 
 <img src="Heze.png" width="50%">
 
