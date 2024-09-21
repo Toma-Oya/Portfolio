@@ -3,23 +3,23 @@
 
 
 # 3DCG
-## 1. [portfolio_3DCG](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)
+## 1. [portfolio_3DCG]
 
 私が制作をした、メタバース用衣装たちの3Dモデルに関するポートフォリオです。  
 VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定して制作しております。
 
-[portfolio_3DCG](portfolio.pdf)
+詳細なpdfは[こちら]((https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing))で確認できます。
 
 <img src="Heze.png" width="50%">
 
 
-[BOOTH](https://slumberhalo.booth.pm/)で販売し、合計300着/35万円ほどの売上をあげております。
+[BOOTH](https://slumberhalo.booth.pm/)で販売し、合計350着/35万円ほどの売上をあげております。
 
 
 # Program
 私が制作した、プログラムに関連する制作実績/ポートフォリオです。
 
-## 1. [「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」]
+## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
 私が研究室のメンバーと制作中の、VR/ARを用いたインタラクティブ作品です。  
 企画書での審査が通り、[IVRC](https://ivrc.net/2024/seed-stage/)というVR学会の中で行われるコンテストにて展示いたしました。  
@@ -34,7 +34,7 @@ VR/AR技術を用いて、「絵画の中の世界に入り込む」体験を提
 - 色の抜け落ちた絵画がARにて表示される
 - その絵画に触れると、触れた絵画の中に入れるようになる
 - 手を筆のように動かすことで、絵画の色のなくなった部分を着色できる
-- 絵画の中の物体を触ることで、その物体の色を追加で塗れるようになる
+- 絵画の中の物体を触ることで、その物体の色を追加で塗れるようになる  
 といった形になっています。
 
 私の担当箇所は主に
@@ -49,9 +49,9 @@ VR/AR技術を用いて、「絵画の中の世界に入り込む」体験を提
 
 
 それぞれの詳細は、以下のリンクから確認できます。
-- 制作シェーダー(https://github.com/kusumi-bell/VertexColorShader)
-- 色塗り機能のスクリプト
-- 企画書(https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
+- [制作シェーダー](https://github.com/kusumi-bell/VertexColorShader)
+- [色塗り機能のスクリプト]()
+- [企画書](https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
 
 
 ## 2. [CheckerBoardCalibration](https://github.com/kusumi-bell/CheckerBoardCalibration)
