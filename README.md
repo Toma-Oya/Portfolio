@@ -5,8 +5,13 @@
 # 3DCG
 ## 1. [portfolio_3DCG](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)
 
-私が制作をした服の3Dモデルに関するポートフォリオです。  
+私が制作をした、メタバース用衣装たちの3Dモデルに関するポートフォリオです。  
 VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定して制作しております。
+
+[portfolio_3DCG](portfolio.pdf)
+
+<img src="Heze.png" width="50%">
+
 
 [BOOTH](https://slumberhalo.booth.pm/)で販売し、合計300着/35万円ほどの売上をあげております。
 
