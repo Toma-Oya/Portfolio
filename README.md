@@ -26,7 +26,9 @@ VRChatというVRメタバースで、既存のいくつかのアバターに着
 VR/AR技術を用いて、「絵画の中の世界に入り込む」体験を提供することが企画目的となっております。  
 
 体験概要としては、こちらの動画のようになっています。
-[!['体験概要解説動画']('IVRC サムネ-1.png')]('https://youtu.be/yM_qg7yoPB0?si=guTJmGAjjMwk91RZ')
+<div>
+<iframe width="600" height="400" src="https://youtu.be/yM_qg7yoPB0?si=guTJmGAjjMwk91RZ"></iframe>
+</div>
 
 - 色の抜け落ちた絵画がARにて表示される
 - その絵画に触れると、触れた絵画の中に吸い込まれる
