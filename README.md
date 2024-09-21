@@ -8,7 +8,7 @@
 私が制作をした、メタバース用衣装たちの3Dモデルに関するポートフォリオです。  
 VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定して制作しております。
 
-詳細なpdfは[こちら](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)で確認できます。
+[こちら](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)で確認できます。
 
 <img src="Heze.png" width="50%">
 
@@ -51,7 +51,7 @@ VRChatというVRメタバースで、既存のいくつかのアバターに着
 
 それぞれの詳細は、以下のリンクから確認できます。
 - [制作シェーダー](https://github.com/kusumi-bell/VertexColorShader)
-- [色塗り機能のスクリプト]()
+- [色塗り機能のスクリプト](https://github.com/Toma-Oya/VRVertexPaintTool)
 - [企画書](https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
 
 
