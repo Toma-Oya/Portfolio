@@ -18,12 +18,10 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 
 [BOOTH](https://slumberhalo.booth.pm/)で販売し、合計350着/35万円ほどの売上をあげております。  
 
-[![色彩の魔法旅人](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-
-
 # Program
 ## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
+[![色彩の魔法旅人](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
 
 ![色彩の魔法旅人](IVRC サムネ.png)  
 
