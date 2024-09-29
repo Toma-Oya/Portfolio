@@ -46,7 +46,7 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 です。
 
 
-私の担当部分および企画書の詳細は、以下のリンクから確認できます。
+私の担当部分および企画書の詳細は、以下のリンクからご確認ください。  
 - [制作シェーダー](https://github.com/kusumi-bell/VertexColorShader)
 - [色塗り機能のスクリプト](https://github.com/Toma-Oya/VRVertexPaintTool)
 - [企画書](https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing)
