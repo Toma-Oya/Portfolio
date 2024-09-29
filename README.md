@@ -21,7 +21,7 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 # Program
 ## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
-[![色彩の魔法旅人](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![色彩の魔法旅人](http://img.youtube.com/vi/yM_qg7yoPB0/0.jpg)](https://www.youtube.com/watch?v=yM_qg7yoPB0 "Audi R8")
 
 ![色彩の魔法旅人](IVRC サムネ.png)  
 
