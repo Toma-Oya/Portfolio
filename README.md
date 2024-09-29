@@ -12,7 +12,7 @@ blender, Unity, Substance Painter, CLIP STUDIOを用いて制作しておりま�
 VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定しております。  
 想定アバターの場合、Unity上でボタン1つで着用できるようになっております。  
 
-詳細は以下の専用のリンクに載せております。  
+詳細な作品紹介は、以下のリンクよりご確認ください。  
 URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing  
 
 
