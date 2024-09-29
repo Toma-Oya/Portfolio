@@ -59,6 +59,7 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 
 ## 2. [UnusedBoneRemover](https://github.com/Toma-Oya/UnusedBoneRemover)
 ![UnusedBoneRemover](UnusedBoneRemover.gif)
+
 私が制作したblenderのアドオンです。  
 上記の衣装作成の際に手間だった、アバターの不必要なボーンの削除を効率化するために制作いたしました。  
 
