@@ -34,13 +34,15 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 です。
 
 担当箇所の詳細と企画書は以下の通りです。  
-- シェーダー制作 / https://github.com/kusumi-bell/VertexColorShader  
+- シェーダー制作 / https://github.com/kusumi-bell/VertexColorShader
+  
   絵画の中の世界を再現するために、マスク画像を用いることで、筆で描いたような見た目になるようにこだわりました。  
   ![制作シェーダー](https://github.com/user-attachments/assets/0a010147-517f-4b1d-ab67-aca1f9afebd5)
 
+
 - ハンドトラッキングによる色塗り機能のスクリプト / https://github.com/Toma-Oya/VRVertexPaintTool
+- 
   VRの没入感を損なわないように、コントローラーではなくハンドトラッキングによる指差しで色を塗れるようにこだわりました。  
-  
   https://github.com/user-attachments/assets/a899c156-bb6c-453e-a6fc-de181b4b0887
   
 - 企画書 / https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing
