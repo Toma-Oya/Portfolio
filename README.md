@@ -4,7 +4,7 @@
 
 # 3DCG
 ## 1. VRChatのアバター用衣装制作
-![VRC衣装](VRC衣装サムネ.png)
+[![VRC衣装](VRC衣装サムネ.png)](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)
 
 メタバース用の服の3Dモデルを制作・販売しました。  
 blender, Unity, Substance Painter, CLIP STUDIOを用いて制作しております。  
