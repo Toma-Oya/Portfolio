@@ -1,4 +1,4 @@
-# 概要
+![IVRCthumbnail](https://github.com/user-attachments/assets/486699fd-21cb-42a5-907b-7c02fec81daf)# 概要
 私、大家東磨の、3DCGとプログラムそれぞれの制作実績/ポートフォリオに関するリンクと説明です。  
 
 
@@ -22,6 +22,8 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 ## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
 [![色彩の魔法旅人](http://img.youtube.com/vi/yM_qg7yoPB0/0.jpg)](https://www.youtube.com/watch?v=yM_qg7yoPB0 "色彩の魔法旅人　動画")
+
+![IVRCthumbnail](https://github.com/user-attachments/assets/bd097ae9-f061-4fe5-81de-73a824638a51)
 
 私が研究室のメンバーと制作した、VR/ARを用いたインタラクティブ作品です。  
 絵画の中の世界に入り込み、その中の物体を触る体験が実現できたら、それはとても面白いものになるのではないか、というコンセプトで制作しております。  
