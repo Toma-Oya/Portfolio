@@ -28,22 +28,12 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 
 企画書での審査が通り、[IVRC](https://ivrc.net/2024/seed-stage/)というVR学会の中で行われるコンテストにて展示いたしました。  
 
-体験の概要としては、
-- 色の抜け落ちた絵画がARにて表示される
-- その絵画に触れると、触れた絵画の中に入れるようになる
-- 手を筆のように動かすことで、絵画の色の抜け落ちた部分を着色できる
-- 絵画の中の一部の物体に実際に触れることができる
-といった形になっています。
-
- 
-
 私の担当箇所は主に
 - 専用シェーダーの作成  
 - ハンドトラッキングによる色塗り機能の実装
 です。
 
-
-私の担当箇所の詳細は以下の通りです。  
+担当箇所の詳細と企画書は以下の通りです。  
 - シェーダー制作 / https://github.com/kusumi-bell/VertexColorShader  
   絵画の中の世界を再現するために、マスク画像を用いることで、筆で描いたような見た目になるようにこだわりました。  
   ![制作シェーダー](https://github.com/user-attachments/assets/0a010147-517f-4b1d-ab67-aca1f9afebd5)
