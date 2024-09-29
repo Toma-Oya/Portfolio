@@ -6,12 +6,11 @@
 ## 1. VRChatのアバター用衣装制作
 [![VRC衣装](VRC衣装サムネ.png)](https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing)
 
-メタバース用の服の3Dモデルを制作・販売しました。  
+VRChatというVRメタバース用の服の3Dモデルを制作・販売しました。  
 blender, Unity, Substance Painter, CLIP STUDIOを用いて制作しております。  
 
-VRChatというVRメタバースで、既存のいくつかのアバターに着用することを想定しております。  
-想定アバターの場合、Unity上でボタン1つで着用できるようになっております。  
-
+通常、オーバーサイズの服は動いたときの破綻が大きいのですが、補助ボーンやConstraintなどの技術を用いて、動いたときにも破綻しないようにこだわりました。
+  
 詳細な作品紹介は、以下のリンクよりご確認ください。  
 URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp=sharing  
 
@@ -55,7 +54,8 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 私が制作したblenderのアドオンです。  
 上記の衣装作成の際に手間だった、アバターの不必要なボーンの削除を効率化するために制作いたしました。  
 
-詳細は以下のリンクに載せております。  
+
+以下のリンクで詳細が確認可能です。  
 URL：https://github.com/Toma-Oya/UnusedBoneRemover
 
 ## 3. [CheckerBoardCalibration](https://github.com/kusumi-bell/CheckerBoardCalibration)
