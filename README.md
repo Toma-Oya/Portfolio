@@ -41,8 +41,9 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 
 
 - ハンドトラッキングによる色塗り機能のスクリプト / https://github.com/Toma-Oya/VRVertexPaintTool
-- 
-  VRの没入感を損なわないように、コントローラーではなくハンドトラッキングによる指差しで色を塗れるようにこだわりました。  
+  
+  VRの没入感を損なわないように、コントローラーではなくハンドトラッキングによる指差しで色を塗れるようにこだわりました。
+  
   https://github.com/user-attachments/assets/a899c156-bb6c-453e-a6fc-de181b4b0887
   
 - 企画書 / https://drive.google.com/file/d/1Qru-UomTy6KaUvn0YxK4uPeqoPtsH-8S/view?usp=sharing
