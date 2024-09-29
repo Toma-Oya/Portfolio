@@ -21,14 +21,7 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 # Program
 ## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
-[![色彩の魔法旅人](IVRC サムネ.png)](https://www.youtube.com/watch?v=yM_qg7yoPB0 "Audi R8")
-
-![色彩の魔法旅人](IVRC サムネ.png)  
-
-[test](https://youtu.be/yM_qg7yoPB0)  
-
-[![色彩の魔法旅人](IVRC サムネ.png)](https://youtu.be/yM_qg7yoPB0)  
-
+[![色彩の魔法旅人](http://img.youtube.com/vi/yM_qg7yoPB0/0.jpg)](https://www.youtube.com/watch?v=yM_qg7yoPB0 "Audi R8")
 
 私が研究室のメンバーと制作した、VR/ARを用いたインタラクティブ作品です。  
 絵画の中の世界に入り込み、その中の物体を触る体験が実現できたら、それはとても面白いものになるのではないか、というコンセプトで制作しております。  
