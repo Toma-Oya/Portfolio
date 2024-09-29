@@ -23,11 +23,11 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 ## 1. 「色彩の魔法旅人 ～消えゆくカフェテラスを救え～」
 
 
-![色彩の魔法旅人](IVRC サムネ.png)
+![色彩の魔法旅人](IVRC サムネ.png)  
 
-[test](https://youtu.be/yM_qg7yoPB0)
+[test](https://youtu.be/yM_qg7yoPB0)  
 
-[![色彩の魔法旅人](IVRC サムネ.png)](https://youtu.be/yM_qg7yoPB0)
+[![色彩の魔法旅人](IVRC サムネ.png)](https://youtu.be/yM_qg7yoPB0)  
 
 
 私が研究室のメンバーと制作した、VR/ARを用いたインタラクティブ作品です。  
