@@ -1,4 +1,4 @@
-![IVRCthumbnail](https://github.com/user-attachments/assets/486699fd-21cb-42a5-907b-7c02fec81daf)# 概要
+# 概要
 私、大家東磨の、3DCGとプログラムそれぞれの制作実績/ポートフォリオに関するリンクと説明です。  
 
 
