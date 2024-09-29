@@ -35,6 +35,8 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 - 絵画の中の一部の物体に実際に触れることができる
 といった形になっています。
 
+ 
+
 私の担当箇所は主に
 - 専用シェーダーの作成  
 - ハンドトラッキングによる色塗り機能の実装
