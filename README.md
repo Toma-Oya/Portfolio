@@ -55,7 +55,7 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 上記の衣装作成の際に手間だった、アバターの不必要なボーンの削除を効率化するために制作いたしました。  
 
 
-以下のリンクで詳細が確認可能です。  
+以下のリンクで配布しており、詳細が確認可能です。  
 URL：https://github.com/Toma-Oya/UnusedBoneRemover
 
 ## 3. [CheckerBoardCalibration](https://github.com/kusumi-bell/CheckerBoardCalibration)
