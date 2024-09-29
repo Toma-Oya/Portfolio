@@ -58,18 +58,20 @@ URL：https://drive.google.com/file/d/1PvcltmsdTsZ4jgreywAVsJfourBGoYA9/view?usp
 以下のリンクで配布しており、詳細が確認可能です。  
 URL：https://github.com/Toma-Oya/UnusedBoneRemover
 
-## 3. [CheckerBoardCalibration](https://github.com/kusumi-bell/CheckerBoardCalibration)
+## 3. CheckerBoardCalibration
 
-私が卒業研究のために、C#とOpenCVを用いて制作した、チェッカーボードとカメラの位置・角度の関係を取得するプログラムのgitへのリンクです。 
+卒業研究で必要となったため、チェッカーボードとカメラの位置・角度の関係を取得するプログラムを、C#とOpenCVを用いて制作しました。 
 
-詳細は以下のリンクに載せております。  
+以下のリンクにコードをのせてあります。  
 URL：https://github.com/kusumi-bell/CheckerBoardCalibration
 
 
-## 4. [ピッチシフター　概要](https://drive.google.com/file/d/1DNoPefglK8fRiD7CkRASsNSXG99mUCeh/view?usp=sharing)
+## 4. ピッチシフター
+![ピッチシフター](https://github.com/user-attachments/assets/5402131b-9d95-4816-b71a-809bb5696877)
 
-私がハードウェア・ソフトウェアともに制作したピッチシフターの概要を説明するpdfです。  
-PICマイコンにC言語で制作したソフトウェアを焼きこんで制作しております。
+大学の電子工作の授業において、ハードウェア・ソフトウェアともに自作でピッチシフターを作りました。  
+PICマイコンにC言語で制作したソフトウェアを焼きこんで制作しております。  
+アナログ入出力ではなくステレオ入出力ができるように、回路の増設やスクリプトの最適化をしてこだわりました。  
 
 電子通信作品デザインコンテストという電子工作のコンテストに提出し、敢闘賞/賞金1万円を受賞しました。
 
