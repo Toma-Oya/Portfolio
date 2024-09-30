@@ -70,7 +70,7 @@ URL：https://github.com/kusumi-bell/CheckerBoardCalibration
 ![ピッチシフター](https://github.com/user-attachments/assets/884f74f4-8fd5-4657-8afb-aeba1a730354)
 
 趣味でピッチシフターを利用することが多く、原理から勉強したいと考えたため、ハードウェア・ソフトウェアともに自作でピッチシフターを作りました。  
-マイコンに、C言語で制作したソフトウェアをMPLAB経由で焼きこんで制作しております。 
+PICに、C言語で制作したソフトウェアをMPLAB経由で焼きこんで制作しております。 
 
 アナログ入出力ではなくステレオ入出力ができるように、回路の増設やスクリプトの最適化をしてこだわりました。  
 
