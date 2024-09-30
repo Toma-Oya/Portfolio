@@ -67,12 +67,10 @@ URL：https://github.com/kusumi-bell/CheckerBoardCalibration
 
 
 ## 4. ピッチシフター
-![ピッチシフター](https://github.com/user-attachments/assets/5402131b-9d95-4816-b71a-809bb5696877)
+![ピッチシフター](https://github.com/user-attachments/assets/884f74f4-8fd5-4657-8afb-aeba1a730354)
 
 大学の電子工作の授業において、ハードウェア・ソフトウェアともに自作でピッチシフターを作りました。  
 PICマイコンにC言語で制作したソフトウェアを焼きこんで制作しております。  
 アナログ入出力ではなくステレオ入出力ができるように、回路の増設やスクリプトの最適化をしてこだわりました。  
 
 電子通信作品デザインコンテストという電子工作のコンテストに提出し、敢闘賞/賞金1万円を受賞しました。
-
-URL：https://drive.google.com/file/d/1DNoPefglK8fRiD7CkRASsNSXG99mUCeh/view?usp=sharing
